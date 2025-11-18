@@ -1,7 +1,6 @@
 # 안녕하세요, 데이터로 문제를 정의하고 실험으로 개선하는 사람 **조성찬**입니다.
 
-[![Portfolio Banner](https://via.placeholder.com/1000x200.png?text=Chan's+Portfolio)](https://chan8457.github.io)
-
+[![Portfolio Banner](banner.jpg)](https://chan8457.github.io)
 > 이미지를 클릭하면 포트폴리오 페이지로 이동합니다.
 
 ---
